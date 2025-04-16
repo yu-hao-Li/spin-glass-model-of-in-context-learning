@@ -8,7 +8,7 @@ We study a simple yet expressive transformer with linear attention and map this 
 
 The `src` folder contains the basic code that all figures share, including models, data sets, common functions, and so on
 
-The code used to generate the data and plot for each figure in the paper, is placed in the folder corresponding to the figure number.
+The codes used to generate the data and plot for each figure in the paper, are placed in the folder corresponding to the figure number.
 
 Some data files named `fig-1/data/J1.npy` and `fig-1/data/J2.npy` are not included in the repository, because they're too big. Therefore, it is necessary to run `data.py` to regenerate the data before running `plot.py` in `fig-1`
 
